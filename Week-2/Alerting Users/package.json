@@ -1,7 +1,7 @@
 {
-  "name": "assignment-1",
+  "name": "week-2",
   "version": "1.0.0",
-  "description": "Week 1 Assignment",
+  "description": "Week 2",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
